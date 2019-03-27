@@ -11,3 +11,4 @@ for i in range(len(cache)):
     if cache[i] > 0:
         for c in range(cache[i]):
             print(i)
+            
