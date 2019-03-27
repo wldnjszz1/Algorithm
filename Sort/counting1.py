@@ -21,3 +21,4 @@ for i in a:
 
 for i in c:
     print(i)
+    
