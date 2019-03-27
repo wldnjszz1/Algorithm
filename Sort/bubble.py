@@ -11,6 +11,5 @@ for i in range(len(a)):
 for i in range(len(a)):
     print(a[i])
 
-
     
 # append는 str type만 가능. str끼리 비교하면 제대로 비교 안됨
