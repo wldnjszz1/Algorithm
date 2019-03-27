@@ -37,3 +37,5 @@ for _ in range(n):
 merge(a)
 for _ in range(len(a)):
     sys.stdout.
+
+    
