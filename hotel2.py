@@ -7,7 +7,6 @@ for _ in range(int(input())):
         for j in range(h):
             room[i][j] = (j+1)*100 + (i+1)
 
-
     if n%h == 0:
         print(room[n//h-1][5])
     else:
